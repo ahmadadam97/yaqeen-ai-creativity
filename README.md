@@ -2,7 +2,7 @@
 
 > **This is a prototype, not a finished product.** It shows how a talk → reviewed social-reel workflow could work at Yaqeen. The assignment asked for an idea and an optional prototype; this is that prototype, built at $0 in a few days.
 
-**▶ [Watch the demo reel](https://youtube.com/shorts/xBa5XZlNe74)** · **📄 [Application write-up (PDF)](docs/Ahmed_Abdi_Yaqeen_Assignment.pdf)**
+**▶ [Watch the demo reel](https://youtube.com/shorts/xBa5XZlNe74)** · **📄 [Application write-up (PDF)](docs/Ahmed_Abdi_Yaqeen_Assignment.pdf)** · **👤 [CV (PDF)](docs/Ahmed_Abdi_CV.pdf)**
 
 Built with Node.js, React/[Remotion](https://www.remotion.dev), Whisper (whisper.cpp), the Gemini API, yt-dlp and the Quran.com API.
 
@@ -109,7 +109,7 @@ Output goes to `out/VIDEO_ID/`: transcript, plan, storyboard, review sheet and r
 | `pipeline/render.mjs` | Approval gate, then render |
 | `pipeline/red-lines.md`, `names.json` | The rules, and the approved list of Names of Allah |
 | `src/NameReel.tsx` | Remotion template: six scene types driven by one storyboard JSON |
-| `docs/` | Application write-up (PDF) |
+| `docs/` | Application write-up and CV (PDF) |
 
 ## Media and rights
 
