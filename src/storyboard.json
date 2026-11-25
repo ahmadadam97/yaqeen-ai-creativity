@@ -1,0 +1,178 @@
+{
+  "source": {
+    "title": "Ramadan Series 2026 | The Name I Need with Dr. Omar Suleiman | Official Trailer",
+    "url": "https://www.youtube.com/watch?v=MfDb8isHUtk",
+    "audioFile": "MfDb8isHUtk.wav"
+  },
+  "fps": 30,
+  "review": {
+    "approved": false,
+    "reviewer": "",
+    "flags": [
+      "Captions come from automatic transcription: check spelling and capitalisation (He/Him for Allah).",
+      "Verse 7:180 (Al-A'raf): confirm it matches what the speaker says at 36.1s."
+    ]
+  },
+  "scenes": [
+    {
+      "type": "lines",
+      "audio": {
+        "from": 0,
+        "to": 16.96
+      },
+      "lines": [
+        {
+          "at": 0,
+          "text": "Some imagine him to be distant and disengaged."
+        },
+        {
+          "at": 4,
+          "text": "Others make him a sentimental God who simply mirrors their desires."
+        },
+        {
+          "at": 8.72,
+          "text": "Some imagine a God who only punishes and holds accountable."
+        },
+        {
+          "at": 13.05,
+          "text": "Others make him out to be a God who only agrees with them."
+        }
+      ]
+    },
+    {
+      "type": "reveal",
+      "audio": {
+        "from": 16.96,
+        "to": 24.88
+      },
+      "lines": [
+        {
+          "at": 0,
+          "text": "But he is Allah, infinitely supreme, intimately near,"
+        },
+        {
+          "at": 5.36,
+          "text": "majestic beyond measure."
+        }
+      ],
+      "arabic": "الله"
+    },
+    {
+      "type": "lines",
+      "audio": {
+        "from": 24.88,
+        "to": 32.96
+      },
+      "lines": [
+        {
+          "at": 0,
+          "text": "A Lord who wrote mercy before wrath, who listens before he even speak,"
+        },
+        {
+          "at": 5.69,
+          "text": "who was never far to begin with."
+        }
+      ]
+    },
+    {
+      "type": "verse",
+      "audio": {
+        "from": 36.08,
+        "to": 44.22
+      },
+      "lines": [
+        {
+          "at": 0,
+          "text": "he has unveiled his essence through the names that shape our lives."
+        },
+        {
+          "at": 4.48,
+          "text": "Names by which you can know him and call upon him."
+        }
+      ],
+      "verse": {
+        "key": "7:180",
+        "surah": "Al-A'raf",
+        "arabic": "وَلِلَّهِ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ فَٱدْعُوهُ بِهَا ۖ وَذَرُوا۟ ٱلَّذِينَ يُلْحِدُونَ فِىٓ أَسْمَـٰٓئِهِۦ ۚ سَيُجْزَوْنَ مَا كَانُوا۟ يَعْمَلُونَ",
+        "translation": "And to Allāh belong the best names, so invoke Him by them. And leave [the company of] those who practice deviation concerning His names. They will be recompensed for what they have been doing.",
+        "source": "Quran.com API v4 · Saheeh International"
+      }
+    },
+    {
+      "type": "doors",
+      "audio": {
+        "from": 49.04,
+        "to": 54.4
+      },
+      "lines": [
+        {
+          "at": 0,
+          "text": "99 doors that open to mercy and justice,"
+        },
+        {
+          "at": 3.57,
+          "text": "to hope and healing."
+        }
+      ]
+    },
+    {
+      "type": "names",
+      "audio": {
+        "from": 73.68,
+        "to": 79.68
+      },
+      "lines": [
+        {
+          "at": 0,
+          "text": "And no matter where you are right now,"
+        },
+        {
+          "at": 2.5,
+          "text": "somewhere in these 99 doors is the name you need."
+        }
+      ],
+      "names": [
+        {
+          "arabic": "الرحمن",
+          "latin": "Ar-Rahman",
+          "meaning": "The Most Merciful"
+        },
+        {
+          "arabic": "الودود",
+          "latin": "Al-Wadud",
+          "meaning": "The Most Loving"
+        },
+        {
+          "arabic": "الغفور",
+          "latin": "Al-Ghafur",
+          "meaning": "The Most Forgiving"
+        },
+        {
+          "arabic": "المجيب",
+          "latin": "Al-Mujib",
+          "meaning": "The Responsive"
+        },
+        {
+          "arabic": "اللطيف",
+          "latin": "Al-Latif",
+          "meaning": "The Most Gentle"
+        },
+        {
+          "arabic": "السلام",
+          "latin": "As-Salam",
+          "meaning": "The Source of Peace"
+        }
+      ]
+    },
+    {
+      "type": "end",
+      "audio": {
+        "from": 79.68,
+        "to": 82.68
+      },
+      "lines": [],
+      "title": "The Name I Need",
+      "footer": "AI-assisted cut of the original video · Yaqeen Institute"
+    }
+  ]
+}
